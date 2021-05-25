@@ -1,0 +1,1 @@
+gcc -static example.c -o tmp.bin -lseccomp
